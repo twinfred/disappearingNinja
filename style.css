@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+h1, p, button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: bold;
+    margin: 20px 0px 10px 0px;
+}
+p {
+    font-size: 16px;
+    line-height: 20px;
+}
+img {
+    width: 200px;
+    margin: 30px;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
